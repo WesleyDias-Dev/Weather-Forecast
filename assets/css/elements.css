@@ -16,7 +16,6 @@ h2{
 .col-3{
     min-height: 600px;
     width: 450px;
-    max-width: 450px;
     border-radius: 10px;
 }
 .content{
